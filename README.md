@@ -3,7 +3,7 @@
 
 -----------------------------------------------------------
 ## The code be organized as the following hierarchy:
-#### ├── root
+#### ├── Code
 #### ├──├── pangu_train.py
 #### ├──├── pangu_test.py
 
