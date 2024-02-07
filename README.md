@@ -9,5 +9,6 @@
 
 -----------------------------------------------------------
 ## Accurate medium-range global weather forecasting with 3D neural networks
-#### 3DEST architecture paper
-![image]([picture or gif url](https://github.com/chenpiinxuan/Pangu_Weather/blob/main/Pangu.jpg)https://github.com/chenpiinxuan/Pangu_Weather/blob/main/Pangu.jpg)
+### 3DEST architecture from paper
+
+![image](https://github.com/chenpiinxuan/Pangu_Weather/blob/main/Pangu.jpg)
