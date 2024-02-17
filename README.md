@@ -1,5 +1,6 @@
 # Pangu Weather
 ## 資料來源：https://github.com/198808xc/Pangu-Weather
+## 資料來源：https://github.com/haofanwang/video-swin-transformer-pytorch
 
 -----------------------------------------------------------
 ## The code be organized as the following hierarchy:
